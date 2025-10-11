@@ -1,0 +1,17 @@
+[project]
+name = "python5"
+version = "0.1.0"
+description = "Your project description here"
+authors = [
+    { name = "Umair Abdullah", email = "youremail@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "numpy",         # Add or remove dependencies as needed
+    "pandas"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
