@@ -1,2 +1,7 @@
 streamlit
 setuptools
+ursina
+panda3d
+panda3d-core
+psutils
+flask
