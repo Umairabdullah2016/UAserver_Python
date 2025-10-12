@@ -6,10 +6,12 @@ authors = [
     { name = "Umair Abdullah", email = "youremail@example.com" }
 ]
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.13"
 dependencies = [
-    "numpy",         # Add or remove dependencies as needed
-    "pandas"
+    "ursina",         # Add or remove dependencies as needed
+    "pandas",
+    "flask",
+    "streamlit"
 ]
 
 [build-system]
