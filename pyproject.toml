@@ -7,7 +7,7 @@ authors = [
     { name = "UAserver Studios", email = "uaserverofficial@gmail.com" }
 ]
 readme = "README.md"
-requires-python = ">=3.11, <3.13.7"
+requires-python = ">=3.13.7"
 dependencies = [
     "ursina",         # Add or remove dependencies as needed
     "pandas",
