@@ -3,7 +3,8 @@ name = "python5"
 version = "0.1.0"
 description = "Your project description here"
 authors = [
-    { name = "Umair Abdullah", email = "youremail@example.com" }
+    { name = "Umair Abdullah", email = "ua8839705@gmail.com" 
+      name = "UAserver Studios" email = "uaserverofficial@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
