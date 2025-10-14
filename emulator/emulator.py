@@ -16,4 +16,4 @@ def emulator():
     components.html(htmlf, height=650, width=600)
     cmd = ["streamlit", "run", stp, "--server.port", "9000"]
     webbrowser.open("tinyurl.com/localhostprovider")
-    print(f"\n\n\n\ Please Enter this in Your Shell: {cmd}")
+    print(f"\n\n\n Please Enter this in Your Shell: {cmd}")
