@@ -4,7 +4,7 @@ import subprocess
 import site
 import webbrowser
 
-def start_uaserver():
+def emulator():
     st.title("UAserver Mobile Emulator")
 
 
