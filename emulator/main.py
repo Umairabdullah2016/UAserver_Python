@@ -1,4 +1,4 @@
-from emulator_gui import emulator
+from emulator import emulator
 ## Used for web
 emulator()
 
