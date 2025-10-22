@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='UAserver_Python',          # Your package name
-    version='0.1.0',                 # Version number
+    version='',                 # Version number
     packages=find_packages(),        # Automatically find all existing packages
     install_requires=[],             # Add dependencies here if needed
     author='Umair Abdullah',         # Your name
