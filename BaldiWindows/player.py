@@ -6,7 +6,7 @@
     spd = sysconfig.get_paths()["purelib"]
 
     # build the executable path (Path makes this cross-platform-safe)
-    exfd = Path(spd) / "BaldiwINDOWS" / "bin" / "MDM" / "BALDI.exe"
+    exfd = Path(spd) / "BaldiwINDOWS" / "bin" / "BALDI.exe"
 
     # PowerShell invocation must quote the path if it contains spaces; use & 'path'
     # If you need to pass arguments to the exe, put them in exe_args
