@@ -18,3 +18,4 @@ itsdangerous
 aiofiles
 watchdog
 loguru
+colorama
