@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='UAserver_Python',          # Your package name
-    version='0.1.0',                 # Must be non-empty and valid
+    version='1.1.1',                 # Must be non-empty and valid
     packages=[
         "BaldiWindows",
         "ZuhairGaming",
