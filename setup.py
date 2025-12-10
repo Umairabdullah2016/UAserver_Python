@@ -2,12 +2,11 @@ from setuptools import setup
 
 setup(
     name='UAserver_Python',          # Your package name
-    version='1.1.1',                 # Must be non-empty and valid
+    version='1.1.2',                 # Must be non-empty and valid
     packages=[
         "BaldiWindows",
         "ZuhairGaming",
         "emulator",
-        "python5",
         "warn"
         
     ],                                # Explicitly list your package folders
