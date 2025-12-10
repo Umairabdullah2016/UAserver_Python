@@ -8,7 +8,8 @@ setup(
         "ZuhairGaming",
         "emulator",
         "python5",
-        "tkinterHP"
+        "warn"
+        
     ],                                # Explicitly list your package folders
     install_requires=[],             # Add dependencies here if needed
     author='Umair Abdullah',         # Your name
